@@ -78,6 +78,7 @@ fn main() {
     }
 }
 ```
+### 2 - String reversal using Stacks 
 ```rust
 // -------------------------------------------
 // 			Stack
